@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.2.6",
+    "open": "^8.4.0",
+    "sanitize-filename": "^1.6.3"
+  }
+}
